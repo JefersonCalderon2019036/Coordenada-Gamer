@@ -1,0 +1,197 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-image: url(https://www.wallpapertip.com/wmimgs/25-256521_332878-title-video-game-super-mario-galaxy-2.png);
+    }
+    
+    .barra-principal {
+        display: flex;
+        background-color: rgba(0, 0, 0, 0.747);
+    }
+    /*------barra de información---*/
+    
+    .manu-prinicipal-acciones {
+        display: flex;
+        margin-left: 150px;
+        margin-top: 50px;
+    }
+    
+    .lista-acciones {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 40px;
+    }
+    
+    .manu-prinicipal-acciones {
+        text-decoration: none;
+        list-style: none;
+    }
+    
+    .titulos {
+        text-decoration: none;
+        color: WHITE;
+        font-size: large;
+    }
+    /*----Logo  tipo---- */
+    
+    .logotipo {
+        width: 400px;
+    }
+    /*---Contenido automatico---*/
+    
+    .presentacion {
+        margin-top: 2%;
+        margin-left: 5%;
+        width: 1100px;
+        border-radius: 5%;
+        -webkit-border-radius: 5%;
+        -moz-border-radius: 5%;
+        -ms-border-radius: 5%;
+        -o-border-radius: 5%;
+    }
+    
+    .avatar {
+        width: 120px;
+        border-radius: 5%;
+        -webkit-border-radius: 5%;
+        -moz-border-radius: 5%;
+        -ms-border-radius: 5%;
+        -o-border-radius: 5%;
+    }
+    
+    .Login {
+        display: flex;
+        position: absolute;
+        top: 60%;
+        left: 70%;
+        width: 250px;
+        border-radius: 5%;
+        -webkit-border-radius: 5%;
+        -moz-border-radius: 5%;
+        -ms-border-radius: 5%;
+        -o-border-radius: 5%;
+    }
+    
+    .sugerencia-login {
+        color: white;
+        width: 30%;
+        position: absolute;
+        top: 75%;
+        left: 60%;
+        font-size: large;
+    }
+    
+    .contenedor-asociaciones {
+        display: flex;
+        background-color: rgba(82, 82, 83, 0.247);
+    }
+    
+    .menu-asociados {
+        display: flex;
+        background-color: rgba(82, 82, 83, 0.247);
+        margin-left: 3%;
+    }
+    
+    .imagenes-asociados {
+        width: 200px;
+    }
+    
+    .c-informacion-torneo {
+        display: flex;
+        background-color: rgb(36, 36, 37);
+        box-shadow: 150%;
+    }
+    
+    .informacion-torneos {
+        color: white;
+        font-size: large;
+        width: 50%;
+        margin-left: 20%;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    
+    .titulo-torneo {
+        color: rgba(13, 155, 238, 0.856);
+        margin-top: 10%;
+        margin-left: 37%;
+    }
+    
+    .menu-juegos {
+        display: flex;
+        margin-right: 7%;
+        margin-top: 8%;
+    }
+    
+    .img-juegos {
+        width: 100%;
+        border-radius: 15%;
+        -webkit-border-radius: 15%;
+        -moz-border-radius: 15%;
+        -ms-border-radius: 15%;
+        -o-border-radius: 15%;
+        box-shadow: 150%;
+    }
+    
+    .juegos-contenedor {
+        background-color: black;
+        width: 80%;
+        border-radius: 15%;
+        -webkit-border-radius: 15%;
+        -moz-border-radius: 15%;
+        -ms-border-radius: 15%;
+        -o-border-radius: 15%;
+    }
+    
+    .Titulo-juego {
+        color: white;
+        width: 100%;
+        text-align: center;
+        font-size: small;
+        margin-bottom: 10;
+        ;
+    }
+    
+    .contenedor-info-torneo {
+        margin-top: 8%;
+        margin-bottom: 8%;
+    }
+    
+    .informacionE-y-redes-sociales {
+        background-color: black;
+    }
+    
+    .informacionE {
+        color: white;
+        text-align: center;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    
+    .ultimas-palabras {
+        color: aqua;
+        font-size: xx-large;
+        text-align: center;
+        width: 80%;
+        margin-top: 5%;
+        margin-left: 10%;
+    }
+    
+    .img-redes {
+        width: 60%;
+    }
+    
+    .redes-sociales-ul {
+        margin-top: 15%;
+        display: flex;
+        margin-left: 8%;
+    }
+    
+    .redes-sociales-li {
+        text-decoration: none;
+        list-style: none;
+    }

@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://www.wallpapertip.com/wmimgs/25-256521_332878-title-video-game-super-mario-galaxy-2.png);
+}
+
+.contenedor-general {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgba(82, 82, 83, 0.781);
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.img-avatar {
+    width: 20%;
+    border-radius: 80%;
+    -webkit-border-radius: 80%;
+    -moz-border-radius: 80%;
+    -ms-border-radius: 80%;
+    -o-border-radius: 80%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    display: block;
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+.datos {
+    color: white;
+    text-align: center;
+}
+
+.contenedor-general-datos {
+    display: flex;
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+.contenedor-general-datos2 {
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+.contenedor-Datos {
+    width: 35%;
+    margin-left: 10%;
+    margin-top: 2%;
+    color: white;
+}
+
+.contenedor-Datos2 {
+    width: 85%;
+    margin-left: 8%;
+    margin-top: 2%;
+    color: white;
+}
+
+.cajas {
+    width: 90%;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.cajas1 {
+    width: 90%;
+    margin-top: 8%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.info {
+    margin-top: 6%;
+}
+
+.boton-registrate {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+.palabra {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}

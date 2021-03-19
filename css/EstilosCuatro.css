@@ -1,0 +1,150 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-image: url(https://www.wallpapertip.com/wmimgs/25-256521_332878-title-video-game-super-mario-galaxy-2.png);
+    }
+    
+    .barra-principal {
+        display: flex;
+        width: 100%;
+        background-color: rgba(82, 82, 83, 0.781);
+        box-shadow: 3px 3px 3px 3px white;
+    }
+    /*------barra de información---*/
+    
+    .manu-prinicipal-acciones {
+        display: flex;
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    
+    .lista-acciones {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 5%;
+    }
+    
+    .manu-prinicipal-acciones {
+        text-decoration: none;
+        list-style: none;
+    }
+    
+    .titulos {
+        text-decoration: none;
+        color: WHITE;
+        font-size: large;
+    }
+    
+    .primer-menu {
+        margin-top: 2%;
+        margin-left: -3%;
+    }
+    
+    .avatar {
+        width: 20%;
+        margin-left: 6%;
+        margin-top: 1.5%;
+        margin-bottom: 5%;
+    }
+    
+    .contenedor-logotipo {
+        display: flex;
+    }
+    
+    .usuario {
+        color: white;
+        margin-top: 10%;
+        margin-left: 5%;
+    }
+    
+    .editar {
+        color: white;
+        position: absolute;
+        top: 16%;
+        left: 5.5%;
+    }
+    
+    .logotipo {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 8%;
+        margin-bottom: 8%;
+    }
+    
+    .contenedor-patrocidores {
+        background-color: rgba(82, 82, 83, 0.932);
+        margin-top: 5%;
+    }
+    
+    .patrocinadores-ul1 {
+        display: flex;
+        margin-bottom: 5%;
+    }
+    
+    .patrocinadores-li {
+        list-style: none;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 12%;
+    }
+    
+    .patrocinadores-li2 {
+        list-style: none;
+        margin-top: 2%;
+        margin-left: -5%;
+        margin-right: 12%;
+    }
+    
+    .Titulo-patrocinadores {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        color: white;
+        font-size: xx-large;
+        text-align: center;
+    }
+    
+    .informacionE-y-redes-sociales {
+        background-color: black;
+    }
+    
+    .informacionE {
+        color: white;
+        text-align: center;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    
+    .ultimas-palabras {
+        color: aqua;
+        font-size: xx-large;
+        text-align: center;
+        width: 80%;
+        margin-top: 5%;
+        margin-left: 10%;
+    }
+    
+    .img-redes {
+        width: 60%;
+    }
+    
+    .redes-sociales-ul {
+        margin-top: 15%;
+        display: flex;
+        margin-left: 8%;
+    }
+    
+    .redes-sociales-li {
+        text-decoration: none;
+        list-style: none;
+    }
+    
+    .editar {
+        color: white;
+        position: absolute;
+        top: 16%;
+        left: 5.5%;
+    }

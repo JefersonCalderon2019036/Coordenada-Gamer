@@ -1,0 +1,263 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://www.wallpapertip.com/wmimgs/25-256521_332878-title-video-game-super-mario-galaxy-2.png);
+}
+
+.barra-principal {
+    display: flex;
+    width: 100%;
+    background-color: rgba(82, 82, 83, 0.781);
+    box-shadow: 3px 3px 3px 3px white;
+}
+
+
+/*------barra de información---*/
+
+.manu-prinicipal-acciones {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.lista-acciones {
+    text-decoration: none;
+    list-style: none;
+    margin-left: 5%;
+}
+
+.manu-prinicipal-acciones {
+    text-decoration: none;
+    list-style: none;
+}
+
+.titulos {
+    text-decoration: none;
+    color: WHITE;
+    font-size: large;
+}
+
+.primer-menu {
+    margin-top: 2%;
+    margin-left: -3%;
+}
+
+
+/*----Logo  tipo---- */
+
+.avatar {
+    width: 20%;
+    margin-left: 6%;
+    margin-top: 1.5%;
+    margin-bottom: 5%;
+}
+
+.contenedor-logotipo {
+    display: flex;
+}
+
+.usuario {
+    color: white;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.presentacion-novedades {
+    width: 100%;
+    overflow: hidden;
+}
+
+.contenedor-informacion {
+    width: 400%;
+    display: flex;
+    margin-left: 0;
+}
+
+.lista-infotmacion {
+    width: 100%;
+}
+
+.contenedor-informacion {
+    overflow: hidden;
+    width: 95%;
+}
+
+.informacion {
+    color: white;
+    font-size: large;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.logotipo {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.contenido {
+    background-color: rgba(82, 82, 83, 0.781);
+    box-shadow: 2px 2px 5px white;
+}
+
+
+/*-----------------menu juegos-----------------------*/
+
+.menu-juegos-ul1 {
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+}
+
+.menu-juegos-ul2 {
+    width: 100%;
+    margin-top: 8%;
+    display: flex;
+}
+
+.menu-juegos-ul3 {
+    width: 100%;
+    margin-top: 8%;
+    display: flex;
+    margin-bottom: 8%;
+}
+
+.menu-juegos-li {
+    list-style: none;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 20%;
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+}
+
+.img-menu {
+    width: 100%;
+    box-shadow: 2px 2px 5px white;
+}
+
+.titulo-categorias {
+    color: white;
+    font-size: xxx-large;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.titulo-categorias-JUEGOS {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.titulo-categorias-JUEGOS2 {
+    margin-top: 5%;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.menu-juegos {
+    background-color: rgb(36, 36, 37);
+    overflow: hidden;
+}
+
+.titulos-juegos {
+    color: white;
+    text-align: center;
+    font-size: medium;
+    text-transform: uppercase;
+    border-radius: 8%;
+    box-shadow: 2px 2px 5px white;
+}
+
+.titulos-juegos-div {
+    background-color: black;
+    margin-top: -1%;
+}
+
+.titulos-juegos2 {
+    color: white;
+    text-align: center;
+    font-size: xx-larger;
+    text-transform: uppercase;
+    border-radius: 8%;
+    box-shadow: 2px 2px 5px white;
+    margin-top: 2%;
+}
+
+.titulos-juegos3 {
+    color: white;
+    text-align: center;
+    font-size: medium;
+    text-transform: uppercase;
+    border-radius: 8%;
+    box-shadow: 2px 2px 5px white;
+    margin-top: 2%;
+}
+
+.carreta-de-compras {
+    position: fixed;
+    width: 10%;
+    top: 85%;
+    left: 88%;
+}
+
+.informacionE-y-redes-sociales {
+    background-color: black;
+}
+
+.informacionE {
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.ultimas-palabras {
+    color: aqua;
+    font-size: xx-large;
+    text-align: center;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.img-redes {
+    width: 60%;
+}
+
+.redes-sociales-ul {
+    margin-top: 15%;
+    display: flex;
+    margin-left: 8%;
+}
+
+.redes-sociales-li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.editar {
+    color: white;
+    position: absolute;
+    top: 16%;
+    left: 5.5%;
+}
+
+.compras {
+    position: fixed;
+    width: 4%;
+    top: 85%;
+    left: 88%;
+}
